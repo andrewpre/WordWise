@@ -29,7 +29,7 @@ To run WordWise locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/wordwise.git
+   git clone https://github.com/andrewpre/wordwise.git
    ```
 
 2. **Navigate to the project directory**:
